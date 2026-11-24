@@ -1,8 +1,5 @@
 <p align="center">
-
-
-
-
+  <img src="tutaloino27.gif" alt="Gatinho digitando" width="400" />
 </p>
 
 <h1 align="center"> Olá sou a Evaline!</h1>
